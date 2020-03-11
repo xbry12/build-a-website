@@ -49,6 +49,9 @@ In sum, the requirements for this project are:
 * Make your mock responsive using media queries
 * Deploy your website to GitHub Pages
 
+## Submission
+Please submit your project via a new issue. Click the issue tab above and selcet the `new issue` button. 
+
 ### Helpful Suggestions
 
 Don't spend too much time getting the images exactly right. If you need to, pick
