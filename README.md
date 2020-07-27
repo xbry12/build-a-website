@@ -9,7 +9,7 @@ of it.
 ## Instructions
 
 1. Create a new repository on GitHub (not GitHub Enterprise).
-1. Clone down the repository and complete your work in there.
+1. Clone down the new repository and complete your work in there.
 1. Fulfill the listed requirements below.
 
 Please turn in your submission by the deadline on your cohort calendar.
