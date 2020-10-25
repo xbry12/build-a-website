@@ -59,38 +59,16 @@ header {
     position: absolute;
 }
 .titletext {
-    border:2px solid #F2F9F9;;
-    background-color: #F2F9F9;
-    font-family: 'DPSDbeyond', arial;
-    font-weight: normal;
-    width: 250px;
-    height: 200px;
-    margin-top: 200px;
-    font-size: 50px;
-    margin: 50px;
+    border:2px solid black
 }   
     
 
 .first-img {
-    border:2px solid white;
-    background-image: url("images/crown-house.png");
-    background-size: cover;
-    width: 330px;
-    height: 432px; 
-    margin-left: 50px;
-    margin-top: 200px;
-    position: absolute;
+    border:2px solid black;
 }
 
 .second-img {
-    border:2px solid white;
-    background-image: url("images/luxembourg-apartment.png");
-    background-size: cover;
-    font-weight: bold;
-    width: 682px; 
-    height: 930px;
-    float: right;    
-    margin-right: 100px;
+    border:2px solid black;
 }
 
 /* 

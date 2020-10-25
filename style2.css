@@ -1,0 +1,221 @@
+body {
+    border: 2px solid black;
+    background: url("images/background.png");
+    background-color: bisque;
+    /* background-size: cover; */
+}
+
+header {
+    border: 2px solid black;
+    background-color: lightblue;
+    display: flex;
+    height: 50px;
+    justify-content: space-around;
+    background-image: url("images/header.jpg");
+    background-size: cover, contain;
+    background-repeat: no-repeat;
+}
+
+/* .tab {
+    border: 2px solid black;
+}
+
+.logo{
+    border: 2px solid black;
+}
+
+.nav-search-bar {
+    border: 2px solid black;
+
+} */
+
+footer {
+    border: 2px solid black;
+    background-color: lightblue;
+    display: flex;
+    margin: 0px;
+    height: 100%;
+}
+
+/* .bigback {
+    background-image: url("images/hero.png");
+    background-image: blue;
+    position: relative;
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+} */
+
+.houses {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-column-gap: 20px;
+    grid-gap: 2em;
+    grid-auto-rows: 600px 700px 400px 
+}
+
+.column{
+    border: 2px solid black;
+    height: 100%;
+}
+
+.news {
+
+}
+
+.titletext {
+    border: 2px solid black;
+    background-color:#EEF7F7;
+    background-image: url("images/ARCHENT\ WEST\ GROUP.png");
+    background-size: cover;
+    height: 60%;
+    width: 75%;
+    grid-row: 1 / 1;
+    grid-column: 1 / 1; 
+}
+
+.crownhouse {
+    border: 2px solid black;
+    background-color: lightpink;
+    height: 80%;
+    width: 65%;
+    grid-row: 1 / 1;
+    grid-column: 1 / 1; 
+    background-image: url("images/crown-house.png");
+    background-size: cover;
+}
+
+.luxembourg {
+    border: 2px solid black;
+    background-color: lightgreen;
+    height: 80%;
+    width: 65%;
+    grid-row: 3 / span 3;
+    grid-column: 2 / 2;
+    background-image: url("images/luxembourg-apartment.png");
+    background-size: contain,cover;
+    background-repeat: no-repeat;
+    /* background-size: cover;  */
+}
+
+.news {
+    border: 2px solid black;
+    background-color: lightsteelblue;
+    height: 100%;
+    width: 35%;
+    background-image: url("images/news.png");
+    background-size: cover;
+}
+
+.about{
+    border: 2px solid black;
+    background-color: lightyellow;
+    height: 50%;
+    width: 55%;
+    background-image: url("images/about.png");
+    background-size: cover;
+}
+
+/* column 2 */
+
+.villa {
+    border: 2px solid black;
+    background-color: linen;
+    height: 100%;
+    width: 80%;
+    background-image: url("images/villa-extramorus.png");
+    background-size: contain;
+}
+
+.combine {
+    display: flex;
+}
+
+.science {
+    border: 2px solid black;
+    background-color: lightgoldenrodyellow;
+    height: 200px;
+    width: 20%;
+    grid-row: 3 / 3;
+    grid-column: 2 / 2;
+    background-image: url("images/science-faculty-coimbra.png");
+}
+
+.contact {
+    border: 2px solid black;
+    background-color: lightgray;
+    height: 200px;
+    width: 20%;
+    grid-row: 3 / 3;
+    grid-column: 2 / 2;
+    background-image: url("images/contact.png");
+    
+}
+
+.vi-sang {
+    border: 2px solid black;
+    background-color: white;
+    background-size: cover;
+    margin: 10px;
+    height: 80%;
+    width: 20%;
+    grid-row: 3 / 3;
+    grid-column: 2 / 2;
+    background-image: url("images/sang-house.png");
+    /* position: relative; */
+}
+/* both columns */
+
+/* .body-background{
+    border: 2px solid black;
+    background-color: black;
+}
+
+header {
+    border: 2px solid black;
+    background-color: lightblue;
+}
+
+.nav-search-bar {
+    border: 2px solid black;
+
+}
+
+.logo {
+    border: 2px solid black;
+    width: 50%;
+    /* float: right; */
+/* } */
+
+/* left column */
+
+/* .titletext {
+    border:2px solid black;
+}   
+    
+.news-button {
+    border:2px solid black;
+    background-color: powderblue;
+}
+
+.first-img {
+    border:2px solid black;
+    background-color: lightcoral;
+} */
+
+
+/* right column */
+/* .second-img {
+    border:2px solid black;
+    background-color: lightgreen;
+}
+.third-img {
+    border:2px solid black;
+    background-color: cornsilk;
+}
+.about {
+    border:2px solid black;
+}
+
+.about2 {
+    border:2px solid black;
+}  */
